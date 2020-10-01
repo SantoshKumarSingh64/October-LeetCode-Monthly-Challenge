@@ -1,5 +1,5 @@
 # October-LeetCode-Monthly-Challenge
-Hello Everyone,this month I am doing Leet Code October Monthly Challenge.
+Hello Everyone,this month I am doing LeetCode October Monthly Challenge.
 
 I am trying to do all questions and I am putting here.
 
